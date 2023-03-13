@@ -20,7 +20,7 @@
   <h1 align=center>About me</h1>
   <ul>
     <li><b>Name</b>: E. X. D.</li>
-    <li><b>Born In</b>: 2002</li>
+    <li><b>Born in</b>: 2002</li>
     <li><b>Hobbys</b>: PC Building, coding, gaming, anime and music =)</li>
     <li><b>Curious fact</b>: I use VSCode for everything :P</li>
     <li><b>Contact</b>: in my Discord (on the top of this README)</li>
