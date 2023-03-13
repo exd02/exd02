@@ -21,7 +21,7 @@
   <ul>
     <li><b>Name</b>: E. X. D.</li>
     <li><b>Hobbys</b>: PC Building, coding, gaming, anime and music =)</li>
-    <li><b>Curious fact</b>: My favorite IDE is VSCode :P</li>
+    <li><b>Curious fact</b>: I use VSCode for everything :P</li>
     <li><b>Contact</b>: in my Discord (on the top of this README)</li>
   </ul>
 </div>
