@@ -3,6 +3,10 @@
 <div align="center" dir="auto">
 
  [![Discord Presence](https://lanyard.kyrie25.me/api/691402011530494062)](https://discord.com/users/691402011530494062)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exd02&theme=dark&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
 
 <br>
@@ -29,8 +33,4 @@
 
 <br>
 
-<div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exd02&theme=dark&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
