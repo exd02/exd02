@@ -23,5 +23,6 @@
     <li><b>Born in</b>: 2002</li>
     <li><b>Hobbys</b>: PC Building, coding, gaming, anime and music =)</li>
     <li><b>Contact</b>: in my Discord (on the top of this README)</li>
+    <li><b>About me</b>: Computer Science Student at IFMG</li>
   </ul>
 </div>
