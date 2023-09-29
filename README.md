@@ -33,4 +33,9 @@
 
 <br>
 
+<div align="center" dir="auto">
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exd02&theme=dark&card_width=400px)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
