@@ -6,7 +6,7 @@
     <li><b>Name</b>: E. X. D.</li>
     <li><b>Born in</b>: 2002</li>
     <li><b>Hobbys</b>: PC Building, coding, gaming, anime and music =)</li>
-    <li><b>Contact</b>: exd1337@proton.me | or discord:exd0001</li>
+    <li><b>Contact</b>: exd1337@proton.me | or discord:btcadvisor</li>
   </ul>
 </div>
 
