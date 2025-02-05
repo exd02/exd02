@@ -5,7 +5,7 @@
   <ul>
     <li><b>Name</b>: E. X. D.</li>
     <li><b>Born in</b>: 2002</li>
-    <li><b>Contact</b>: exd1337@proton.me | or discord:btcadvisor</li>
+    <li><b>Contact</b>: exd1337@proton.me</li>
   </ul>
 </div>
 
