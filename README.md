@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my Profile</h1>
 
 <div>
-  <h1 align=center>About me</h1>
+  <h2 align=center>About me</h1>
   <ul>
-    <li><b>Name</b>: E. X. D.</li>
+    <li><b>Name</b>: Eliam. X. D.</li>
     <li><b>Born in</b>: 2002</li>
     <li><b>Contact</b>: exd1337@proton.me</li>
   </ul>
